@@ -1,0 +1,24 @@
+Pseudocódigo
+
+Função construir ponte Repetir 3 vezes 
+{Avance
+ColocarTabuas}
+
+Função Virar a direita 2 vezes
+{Avance
+colocarTabuas}
+
+Função pegar Diamante Repetir 3 vezes
+{Avance}
+{Virar a esquerda 
+Pegar o Diamante}
+
+Função Pegar Pá
+{Virar a direita 2 vezes}
+
+Ir até a pá
+Função
+{avançar}
+{avançar 5 vezes}
+{virar a direita}
+{Avançar 2 vezes}
